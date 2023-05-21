@@ -1,0 +1,8 @@
+.home{
+    padding: 20rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.7rem;
+    color: brown;
+}

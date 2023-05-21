@@ -1,0 +1,15 @@
+.textField {
+    display: block !important;
+    margin: 1rem 0 !important;
+}
+
+.formWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5rem 0;
+}
+.button{
+    display: block !important;
+    margin: 0 auto !important;
+}
